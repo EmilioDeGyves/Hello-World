@@ -50,7 +50,7 @@ void leeDatosSerie(std::string &_id, std::string &_Titulo, int &_duracion, std::
 	cout << "Ingresa la Cantidad de Episodios: ";
 	cin >> _cantEpisodios;
 ````
-[link a página](https://markdownguide.org/cheat-sheet/)
+[markdownguide.org](https://markdownguide.org/cheat-sheet/)
 ![imagen](paisaje.jpg)
 | Syntax | Description |
 | ----------- | ----------- |
